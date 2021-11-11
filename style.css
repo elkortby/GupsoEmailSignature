@@ -4,7 +4,7 @@
 .row {
 	display: flex; flex-direction: row; align-items: center;
 }
-.material-icons.md-14 { font-size: 14px; }
+.material-icons.md-14 { font-size: 12px; }
 .icon {
 	margin: 0px 10px;
 	border-radius: 100%;
@@ -19,4 +19,8 @@ p {
 }
 .divider {
 	border-right: solid #173E3C 2px;
+}
+a {
+	text-decoration: none;
+	color: inherit;
 }
